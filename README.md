@@ -1,4 +1,4 @@
-# APp Dolar
+# App Dolar
 Aplicativo simples que mostra a cotação do dolar hoje.
 
 ## Tecnologias
